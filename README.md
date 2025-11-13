@@ -29,3 +29,9 @@
     2) Power BI (for dashboarding)
     3) Jupyter Notebook / Colab
     4) GitHub for version control
+
+Download large files (Power BI Dashboard & Dataset)
+
+Large files for this project are available from the Releases page:
+
+https://github.com/kavanvadodariya/Breast-Cancer-Analysis/releases
