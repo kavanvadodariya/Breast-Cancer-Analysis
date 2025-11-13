@@ -1,5 +1,5 @@
 # Breast-Cancer-Analysis
-This project focuses on analyzing breast cancer patient data through robust preprocessing techniques and visual insights. After cleaning and preparing the dataset, an interactive Power BI dashboard has been developed to present meaningful trends, patterns, and indicators that support early diagnosis and clinical decision-making.
+    This project focuses on analyzing breast cancer patient data through robust preprocessing techniques and visual insights. After cleaning and preparing the dataset, an interactive Power BI dashboard has been       developed to present meaningful trends, patterns, and indicators that support early diagnosis and clinical decision-making.
 
 => Key Features:
 
@@ -24,10 +24,7 @@ This project focuses on analyzing breast cancer patient data through robust prep
 
 => Tools & Technologies Used:
 
-     Python (Pandas, NumPy, Matplotlib, Scikit-Learn)
-
-Power BI (for dashboarding)
-
-Jupyter Notebook / Colab
-
-GitHub for version control
+    1) Python (Pandas, NumPy, Matplotlib, Scikit-Learn)
+    2) Power BI (for dashboarding)
+    3) Jupyter Notebook / Colab
+    4) GitHub for version control
